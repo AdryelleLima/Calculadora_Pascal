@@ -2,7 +2,7 @@
 código básico de calculadora em Pascal.
 
 ---
-##🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - menu interativo;
 - calculo de soma, subtração, divisão, multiplicação
